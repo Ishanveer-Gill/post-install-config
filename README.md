@@ -58,8 +58,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   System Administrators:
 </p>
 <p>
-  <img src="https://i.imgur.com/5Bappei.png" height="75%" width="100%" alt="System Administrators"/>
-  <img src="https://i.imgur.com/5Bappei.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://i.imgur.com/s7gxKBO.png" height="75%" width="100%" alt="System Administrators"/>
+  <img src="https://i.imgur.com/PeprXd2.png" height="75%" width="100%" alt="System Administrators"/>
 </p>
 <br />
 <br />
@@ -72,7 +72,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Level II Support:
 </p>
 <p>
-  <img src="https://i.imgur.com/kcsgveV.png" height="75%" width="100%" alt="Level II Support"/>
+  <img src="https://i.imgur.com/wveBIEE.png" height="75%" width="100%" alt="Level II Support"/>
 </p>
 <br />
 <br />
@@ -85,7 +85,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   Make sure "Require registration and login to create tickets" is not selected:
 </p>
 <p>
-  <img src="https://i.imgur.com/suBJSF9.png" height="75%" width="100%" alt="ticket creations"/>
+  <img src="https://i.imgur.com/4FknXCK.png" height="75%" width="100%" alt="ticket creations"/>
 </p>
 <br />
 <br />
@@ -95,11 +95,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Admin Panel -> Agents -> Add New.
 </p>
 <p>
-  Jane Doe:
-</p>
-  <img src="https://i.imgur.com/iO0iisQ.png" height="75%" width="100%" alt="agent one access"/>
-<p>
   John Doe:
+</p>
+  <img src="https://i.imgur.com/zXOqKTc.png" height="75%" width="100%" alt="agent one access"/>
+<p>
+  Jane Doe: Account Picture not included
 </p>
 <p>
   <img src="https://i.imgur.com/mYnbAMb.png" height="75%" width="100%" alt="agent two"/>
