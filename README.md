@@ -102,8 +102,8 @@ This tutorial outlines the post-install configuration of the open-source help de
   Jane Doe: Account Picture not included
 </p>
 <p>
-  <img src="https://i.imgur.com/mYnbAMb.png" height="75%" width="100%" alt="agent two"/>
-  <img src="https://i.imgur.com/9crTi4b.png" height="75%" width="100%" alt="agent two access"/>
+  <img src="https://i.imgur.com/49sgVa4.png" height="75%" width="100%" alt="agent two"/>
+  <img src="https://i.imgur.com/2meca93.png" height="75%" width="100%" alt="agent two access"/>
 </p>
 <h3 align="center">Configure Users (customers)</h3>
 <br />
@@ -113,7 +113,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   Ken User:
 </p>
-  <img src="https://i.imgur.com/vbPd3uK.png" height="75%" width="100%" alt="user access"/>
+  <img src="https://i.imgur.com/xVNPDqD.png" height="75%" width="100%" alt="user access"/>
 <p>
   Repeat the same above for Karen User.
 </p>
@@ -134,9 +134,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Sev-C (8 hours, business hours):
 </p>
 <p>
-  <img src="https://i.imgur.com/VYnyLc6.png" height="75%" width="100%" alt="sev one"/>
-  <img src="https://i.imgur.com/cyboKiW.png" height="75%" width="100%" alt="sev two"/>
-  <img src="https://i.imgur.com/yqprhQE.png" height="75%" width="100%" alt="sev three"/>
+  <img src="https://i.imgur.com/dkeTndb.png" height="75%" width="100%" alt="sev one"/>
+  <img src="https://i.imgur.com/3pKElTc.png" height="75%" width="100%" alt="sev two"/>
+  <img src="https://i.imgur.com/ZgZ4e3o.png" height="75%" width="100%" alt="sev three"/>
 </p>
 <br />
 <br />
@@ -158,16 +158,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   Password Reset.
 </p>
 <p>
-  <img src="https://i.imgur.com/IgldwbS.png" height="75%" width="100%" alt="business critical outage"/>
-  <img src="https://i.imgur.com/lUmSArI.png" height="75%" width="100%" alt="personal computer issues"/>
-  <img src="https://i.imgur.com/7tKUss1.png" height="75%" width="100%" alt="equipment request"/>
-  <img src="https://i.imgur.com/Chj90ub.png" height="75%" width="100%" alt="password reset"/>
+  <img src="https://i.imgur.com/lNBWHtY.png" height="75%" width="100%" alt="business critical outage"/>
+ 
 </p>
 <br />
 <br />
 <p>
-  And now we are done configure osTicket. I hope this tutorial helped. All that's left is to practice triaging and solving tickets.
-</p>
-<p>
-  This is a very important skill to have for any help desk specialist, as they are the first line of communication between a company and it's customers when it comes to handling issues regarding a product or service they provide.
+  This concludes of different topics you can play around with in osTicket. One should try exploring the system on their own to see how it works.This is a important skill to have for any help desk specialist role, as they are the first line of communication between a company and it's customers when it comes to handling issues regarding a product or service they provide.
 </p>
